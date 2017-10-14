@@ -4,5 +4,6 @@ version = "0.1.0"
 authors = ["Michael Hewson <michael@michaelhewson.ca>"]
 description = "A version of the FnOnce trait that takes `self` by `&mut` reference instead of by value."
 repository = "https://github.com/mikeyhew/fn_move"
+license = "MIT/Apache-2.0"
 
 [dependencies]
